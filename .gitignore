@@ -131,3 +131,6 @@ dmypy.json
 # GIS Sample data
 /data/
 /Data/
+
+# Mac junk
+.DS_Store
