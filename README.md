@@ -6,6 +6,6 @@ Automated calculation of fire perimeter from raster imagery.
 ```
 git clone https://github.com/dotysan/GeoHack23-WildfirePerimeter.git
 conda env create -f environment.yml
-activate wildfire
+conda activate wildfire
 ```
 
