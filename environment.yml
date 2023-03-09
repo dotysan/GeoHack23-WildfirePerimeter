@@ -1,0 +1,10 @@
+name: wildfire
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyter
+  - numpy
+  - rasterio
+  - shapely
