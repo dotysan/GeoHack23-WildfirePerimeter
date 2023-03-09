@@ -10,3 +10,4 @@ dependencies:
   - shapely
   - scipy
   - gdal
+  - matplotlib
