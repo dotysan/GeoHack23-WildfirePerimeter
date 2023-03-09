@@ -9,3 +9,8 @@ conda env create -f environment.yml
 conda activate wildfire
 ```
 
+# Update
+
+```
+conda env update -f environment.yml
+```
