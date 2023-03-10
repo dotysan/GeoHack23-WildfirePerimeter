@@ -12,3 +12,4 @@ dependencies:
   - gdal
   - matplotlib
   - Fiona
+  - geopandas
