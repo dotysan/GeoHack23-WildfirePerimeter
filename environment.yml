@@ -1,15 +1,11 @@
 name: wildfire
 channels:
   - conda-forge
-  - defaults
 dependencies:
-  - python=3.9
-  - jupyter
-  - numpy
+  - python=3.11
+  - jupyterlab>3
   - rasterio
-  - shapely
+  - shapely>=2
   - scipy
-  - gdal
-  - matplotlib
-  - Fiona
-  - geopandas
+  - geopandas>=0.12
+  - pyogrio

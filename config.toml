@@ -1,0 +1,12 @@
+# This is a TOML document.
+
+title = "wildfireperimeter config file"
+
+#[classification]
+
+[postprocessing]
+concave_ratio = 0.1
+distance_out_buffer = 40
+min_area_interior_polygons = 500
+distance_in_buffer = -43
+min_area_polygons = 1000
